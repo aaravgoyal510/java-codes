@@ -1,0 +1,3 @@
+Hello, this is a sample text file.
+This file is used for demonstrating character streams in Java.
+Data copied from Source File

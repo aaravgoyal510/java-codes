@@ -1,0 +1,3 @@
+Hello everybody we are learning Input Output in Java.
+This program is used for demonstrating OutputStream of FileStream Typein Java.
+We find here writning text is very easy in Java.

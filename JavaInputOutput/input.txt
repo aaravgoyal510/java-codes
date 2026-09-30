@@ -1,0 +1,1 @@
+hello everbody we are demonstrating InputStream with File Input Stream
